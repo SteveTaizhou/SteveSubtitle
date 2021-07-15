@@ -1,4 +1,6 @@
 # SteveSubtitle
+[![last version](https://img.shields.io/badge/last%20version-1.0.0-orange)](https://github.com/SteveTaizhou/SteveSubtitle/releases/tag/1.0.0)
+
 SteveSubtitle is a software that allows you to show subtitles when you are recording. For WindowsOS and python.
 
 Any suggest? Email: steve1321@dingtalk.com
