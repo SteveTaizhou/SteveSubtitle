@@ -1,5 +1,7 @@
 # SteveSubtitle
 
+![https://github.com/SteveTaizhou/SteveSubtitle/releases/tag/1.0.0](https://img.shields.io/github/v/release/SteveTaizhou/SteveSubtitle?include_prereleases&label=latest-release)
+
 https://user-images.githubusercontent.com/85382878/120916477-6ab0ab80-c6dc-11eb-8204-5dd8f914524a.mp4
 
 SteveSubtitle 1.0.0, including both English and Chinese, for WindowsOS and python.
